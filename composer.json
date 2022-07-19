@@ -1,0 +1,19 @@
+{
+    "name": "abdellahrk/bolt-author",
+    "description": "A Bolt extension to select a user for a content",
+    "type": "bolt-extension",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdellahrk\\BoltAuthor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdellahramadan",
+            "email": "ramadanabdel24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
